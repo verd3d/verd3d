@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verd3d
 - 👀 I’m interested in 3d art and animation, and programming.
-- 🌱 I’m currently learning blender, php, c++.
+- 🌱 I’m currently learning blender, javascript, c++, c#.
 - 💞️ I’m looking to collaborate on short silly projects.
 - 📫 How to reach me verd.#5512
 
